@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Simple-Media-Player</string>
+    <string name="about_issues">Here is two issues.\n\n
+        1. If you try to multiple music in raw one by one. It doesn\'t stop the previous playing music.\n\n
+        2. If you presses back button it comes to main activity but still play music in background. But I don\'t want to play music in background\n
+        Hope you will help me to get out from this problem.
+    </string>
+    <string name="let_s_go"><![CDATA[Let\'s Go >>]]></string>
 </resources>
